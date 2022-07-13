@@ -3,5 +3,21 @@ E - Commerce bot.
 1. Startni bosganda:
     - Menyu
     - Biz bilan aloqa
-    - Buyurtmalar
+    - Buyurtmalarim
   
+
+      Menyu:
+        - mahsulotlar
+        - orqaga
+      
+
+
+      Biz bilan aloqa:
+        - Kontakt va tg username
+      
+
+
+      Buyurtmalarim:
+        - buyurtmalar
+        - orqaga
+      
